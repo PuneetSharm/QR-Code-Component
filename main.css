@@ -31,10 +31,11 @@ img {
 }
 
 #para1{
-    max-width: 288px;
+    max-width: 256px;
+    max-height: 52px;
     margin: 0px 0px 16px 0px;
     font-size: 22px;
-    font-family: "Outfit", sans-serif;
+    font-family: "Outfit", serif;
     font-weight: 700;
     color : hsl(218, 44%, 22%);
     background-color: white;
